@@ -1,0 +1,11 @@
+# Exclude specific folders
+/.idea/
+/mysql-data/
+/.mvn
+/*/mvnw
+
+# You can also exclude files and patterns
+*.log
+*.tmp
+*wrapper.properties
+*mvnw.cmd
